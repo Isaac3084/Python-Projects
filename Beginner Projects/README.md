@@ -35,4 +35,3 @@ This repository contains a collection of beginner-friendly Python projects that 
 
 Feel free to explore, modify, and build upon these projects to deepen your understanding of Python!
 
-Happy Learning! 🎉

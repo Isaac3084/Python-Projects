@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+keras
+opencv-python
+nltk
+requests
+beautifulsoup4

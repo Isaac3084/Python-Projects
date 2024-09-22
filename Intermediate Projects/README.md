@@ -30,12 +30,15 @@ This repository contains a collection of intermediate-level Python projects focu
    git clone https://github.com/your-username/intermediate-python-projects.git
 
 2. Navigate to the project directory:
+   ```bash
    cd intermediate-python-projects
 
-3. Install the required libraries:
+4. Install the required libraries:
+   ```bash
    pip install -r requirements.txt
 
-4. Run the desired project file using Python:
+5. Run the desired project file using Python:
+   ```bash
    python project_filename.py
 
 
